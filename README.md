@@ -9,7 +9,8 @@
 
 ## Errors and fixes
 
-1. "Missing required" argument & "unsupported argument" - *route_table* *( 2 errors)*
+1. "Missing required" argument & "unsupported argument" - route_table *( 2 errors)*
+
 ![missing_route_table_id](missing route_table_id.png)
 ![route_table_id_typo](route_table_id_typo.png)
 
