@@ -1,0 +1,5 @@
+commands_ran.md
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl.terraform/
